@@ -1,0 +1,6 @@
+{
+  "name": "InterviewAce",
+  "description": "AI-Powered Interview Preparation Platform covering Coding Practice, Aptitude, Technical Interviews, and Resume Analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
